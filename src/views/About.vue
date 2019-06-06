@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Netlify is a good thing!</h1>
   </div>
 </template>
